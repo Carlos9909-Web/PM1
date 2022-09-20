@@ -1,8 +1,8 @@
 # Comandos para el examen 
+
+## Iniciar repositorio
 git init
-
 git add .
-
 git commit -m"commit inicial"
 ![commit](imagenes/primercommit.png)
 
