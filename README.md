@@ -98,3 +98,12 @@ git merge -d "v0.2"
 git log --graph --all --oneline
 ```
 ![Listado de imagenes](imagenes/listado%20de%20cambios.png)
+
+# Parte 2 
+
+## Crear una tabla 
+| Nombre | Usuario |
+|--------|---------|
+|Juan    |JuanNeiraJaime|
+|Martin  |MartinCabrera137|
+|Luis    |LuisContreras1299|
