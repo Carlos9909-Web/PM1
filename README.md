@@ -101,9 +101,59 @@ git log --graph --all --oneline
 
 # Parte 2 
 
+## Cuenta de GitHub 
+* Poner una foto en tu perfil de GitHub. 
+![Foto de perfil](imagenes/foto%20perfil.png)
+
+* Poner el doble factor de autentificación en tu cuenta de GitHub. 
+![Doble Factor](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/dos%20factores.png)
+* Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
+ 
+## Uso social de GitHub 
+* Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos. 
+![Social](imagenes/seguir.png)
+* Seguir los repositorios PM1 del resto de tus compañeros.
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/seguir%20repositorio.png)
+* Añadir una estrella a los repositorios PM1 del resto de tus compañeros. 
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/estrella%20en%20repositorio.png)
+
+
 ## Crear una tabla 
+* Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
+
 | Nombre | Usuario |
 |--------|---------|
 |Juan    |JuanNeiraJaime|
 |Martin  |MartinCabrera137|
 |Luis    |LuisContreras1299|
+
+## Colaboradores 
+Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/a%C3%B1adir%20colaborador.png)
+
+
+## Crear una organización 
+* Crear una organización llamada PM1 -tunombredeusuariodegithub
+![Organizacion](imagenes/organizacion.png)
+
+
+## Crear equipos 
+* Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos. 
+* Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
+* Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
+
+![Organizacion](imagenes/equipos.png)
+
+
+## Crear un index.html 
+* Crear un index.html que se pueda ver como página web en la organización. 
+
+## Crear Pull-requests 
+* Hacer 2 forks de 2 repositorios PM1-tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seas ni administrador ni colaborador. 
+* Crear una rama en cada fork. 
+* En cada rama modificar el archivo index.html añadiendo tu nombre. 
+* Con cada rama hacer un pull-request. 
+ 
+
+## Gestionar Pull-requests 
+* Aceptar los pull-request que lleguen a los repositorios de tu organización. 
