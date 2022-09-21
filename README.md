@@ -106,16 +106,16 @@ git log --graph --all --oneline
 ![Foto de perfil](imagenes/foto%20perfil.png)
 
 * Poner el doble factor de autentificación en tu cuenta de GitHub. 
-![Doble Factor](imagenes/dos%factores.png)
+![Doble Factor](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/dos%20factores.png)
 * Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
  
 ## Uso social de GitHub 
 * Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos. 
 ![Social](imagenes/seguir.png)
 * Seguir los repositorios PM1 del resto de tus compañeros.
-![Social](imagenes/seguir%repositorio.png)
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/seguir%20repositorio.png)
 * Añadir una estrella a los repositorios PM1 del resto de tus compañeros. 
-![Social](imagenes/estrella%en%repositorio.png)
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/estrella%20en%20repositorio.png)
 
 
 ## Crear una tabla 
@@ -129,7 +129,7 @@ git log --graph --all --oneline
 
 ## Colaboradores 
 Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
-![Social](imagenes/añadir%colaborador.png)
+![Social](https://github.com/Carlos9909-Web/PM1/blob/main/imagenes/a%C3%B1adir%20colaborador.png)
 
 
 ## Crear una organización 
