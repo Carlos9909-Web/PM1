@@ -142,6 +142,9 @@ Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94
 * Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
 * Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
 
+![Organizacion](imagenes/equipos.png)
+
+
 ## Crear un index.html 
 * Crear un index.html que se pueda ver como página web en la organización. 
 
